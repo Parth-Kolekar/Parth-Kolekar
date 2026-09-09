@@ -20,8 +20,31 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Parth-Kolekar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div align="center">
+
+## 🏅 LeetCode Badges
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=parthkolekar_29&theme=github-dark" alt="LeetCode Badges" />
+
+</div>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/parthkolekar_29)](https://leetcode.com/parthkolekar_29)
+<br><br>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Parth_Logan)](https://leetcode.com/Parth_Logan)
+
+
+
+
+
+
 ---
-[![](https://komarev.com/ghpvc/?username=Parth-Kolekar&icon=0&color=6)](https://visitcount.itsvg.in)
+</div>
+
+[![](https://komarev.com/ghpvc/?username=Parth-Kolekar&icon=0)](https://visitcount.itsvg.in)
+
+
+<div align="center">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/Parth-Kolekar/Parth-Kolekar/blob/output/github-snake-dark.svg)
