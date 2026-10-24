@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Parth 👋<br><br>🎓 Computer Science student passionate about Software Development and AI.<br><br>💻 I enjoy building full-stack applications, exploring Agentic AI systems, and solving Data Structures & Algorithms problems.<br><br>🌱Currently Learning:<br><br>* System Design<br>* LLMs & AI Agents<br>* Cloud Deployment<br><br>📫 Connect with me:<br><br>* LinkedIn: [https://www.linkedin.com/in/parth-kolekar-5b3565312/]<br>* Email: [parthkolekar9@gmail.com]<br><br>⚡ Fun fact: I love turning hackathon ideas into working products.<br>
+# Hi, I'm Parth 👋<br><br>🎓 Computer Science student passionate about Software Development and AI.<br><br>💻 I enjoy building full-stack applications, exploring Agentic AI systems, and solving Data Structures & Algorithms problems.<br><br>🌱Currently Learning:<br><br> System Design<br> LLMs & AI Agents<br> Cloud Deployment<br><br>📫 Connect with me:<br><br> LinkedIn: https://www.linkedin.com/in/parth-kolekar<br> Portfolio: https://parth-kolekar-portfolio.netlify.app<br> Email: parthkolekar9@gmail.com<br><br>⚡ Fun fact: I love turning hackathon ideas into working products.<br>
 
 <div align="center">
   
